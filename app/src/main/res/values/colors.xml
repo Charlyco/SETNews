@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#070B3A</color>
+    <color name="colorPrimaryDark">#07199F</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fpno_blue">#060B41</color>
+    <color name="fpno_orange">#F86D36</color>
+    <color name="text_black">#060606</color>
+    <color name="text_box_bagnd">#ffffff</color>
+    <color name="white">#ffff</color>
+    <color name="profilr_colour">#8084BB</color>
+</resources>

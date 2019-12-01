@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="student_name">Student\'s Name</string>
+    <string name="department_name">Name of Department</string>
+    <string name="department_logo">Department Logo</string>
+    <string name="depart_name">Name of Department</string>
+    <string name="school_portal">School Portal</string>
+    <string name="detail_news">Input the details of the news post</string>
+    <string name="upload_profile_pic">Upload Profile Pictture</string>
+    <string name="save_settings">SAVE CHANGES</string>
+    <string name="copyright">Copyright @Limitless Project Group</string>
+</resources>

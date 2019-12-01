@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SET News</string>
+    <string name="splash_school_image">Splash Screen</string>
+    <string name="news_title">News Headline</string>
+    <string name="news_details">News Details</string>
+    <string name="image_buton">UPLOAD IMAGE</string>
+    <string name="save_menu">SAVE</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_news">Add News</string>
+    <string name="delete_news">Delete</string>
+    <string name="title_activity_main_news">SET NEWS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_news">News</string>
+    <string name="menu_department">Department</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_chat">Join Chat Room</string>
+    <string name="load_portal">School Portal</string>
+    <string name="student_name">Student\'s Name</string>
+    <string name="department_name">Name of Department</string>
+    <string name="department_logo">Department Logo</string>
+    <string name="depart_detail">Provide a detailed description of your department</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="save_depart">Save</string>
+    <string name="add_depart">New Department</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="profile_header">Profile</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Profile Preferences -->
+    <string name="student_title">Your Name</string>
+    <string name="email_title">Your Email Address</string>
+    <string name="department_title">Select Department</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="email_address">Your email address</string>
+    <string name="password">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="user_header_email">me@fpno.com</string>
+    <string name="register">Register</string>
+    <string name="login_text">Sign in instead</string>
+    <string name="reg_user_name">Your full name</string>
+    <string name="reg_text_phone">Phone number</string>
+    <string name="student_phone">Phone number</string>
+    <string name="school_title">SCHOOL OF ENGINEERING TECHNOLOGY</string>
+    <string name="resend_veri_email">resendVerificationEmail</string>
+    <string name="resend_email">Resend Verification Email</string>
+    <string name="depart_name">Name of Department</string>
+    <string name="school_portal">School Portal</string>
+    <string name="detail_news">Input the details of the news post</string>
+    <string name="upload_profile_pic">Upload Profile Pictture</string>
+    <string name="save_settings">SAVE CHANGES</string>
+    <string name="profile_image">Profile Pic</string>
+    <string name="settings_screen">Settings</string>
+    <string name="copyright">Copyright @Limitless Project Group</string>
+    <string name="authors">A project supervised by Engr. Mbonu Washington</string>
+</resources>

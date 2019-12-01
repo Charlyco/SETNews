@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/modern_arhitecture"
+    android:gravity="bottom"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+    <ImageView
+        android:id="@+id/profile_image"
+        android:layout_width="131dp"
+        android:layout_height="101dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/nav_header_desc"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/fpno_logo" />
+
+    <TextView
+        android:id="@+id/user_name_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/student_name"
+        android:textColor="@color/profilr_colour"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/profile_image"
+        app:layout_constraintTop_toBottomOf="@+id/profile_image" />
+
+    <TextView
+        android:id="@+id/user_email_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/email_address"
+        android:textColor="@color/profilr_colour"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/user_name_header"
+        app:layout_constraintTop_toBottomOf="@+id/user_name_header" />
+
+    <TextView
+        android:id="@+id/nav_user_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/department_name"
+        android:textColor="@color/profilr_colour"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/user_email_header"
+        app:layout_constraintTop_toBottomOf="@+id/user_email_header" />
+
+    <TextView
+        android:id="@+id/nav_phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/student_phone"
+        android:textColor="@color/profilr_colour"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/nav_user_department"
+        app:layout_constraintTop_toBottomOf="@+id/nav_user_department" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

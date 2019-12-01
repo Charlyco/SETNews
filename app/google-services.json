@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196163414356",
+    "firebase_url": "https://setnews-620aa.firebaseio.com",
+    "project_id": "setnews-620aa",
+    "storage_bucket": "setnews-620aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196163414356:android:9d38d72d609919f2",
+        "android_client_info": {
+          "package_name": "com.limitless.setnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196163414356-78mf7ueokvdbf3kg195id9p87k7s58qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limitless.setnews",
+            "certificate_hash": "ba3b8f67c4f7b771895d2649db3d700f54f18679"
+          }
+        },
+        {
+          "client_id": "196163414356-sajh9s6spqi7akc6qk85vp5gom8kmkai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53iJcIx6ruzbZrNwoKzey4UFPQpP2MBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196163414356-sajh9s6spqi7akc6qk85vp5gom8kmkai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

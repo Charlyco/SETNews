@@ -1,0 +1,24 @@
+<resources>
+    <!-- Department Preference -->
+    <string-array name="department_entries">
+        <item>Agricultural and Bioenvironmental Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical and Electronic Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Petroleum and Mineral Resources Engineering</item>
+    </string-array>
+
+    <string-array name="department_values">
+        <item>Agricultural and Bioenvironmental Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical and Electronic Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Petroleum and Mineral Resources Engineering</item>
+    </string-array>
+</resources>
